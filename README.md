@@ -17,3 +17,6 @@ The PricePanel contains a summary of the user's order on the right hand side of 
 * The subtotal, tax (at 6% tax rate) and grand total of the order.
 
 This panel updates in real-time, and will change the moment that a change is made to the order.
+
+### OrderCalculatorGUI
+This File is used to start and execute the program. it contains the necessary code to combine each of the panels into a single window. NOTE: a splash screen needs to be added to this file, so that BrandiLogo.jpg can be viewed whiel the program is loading
