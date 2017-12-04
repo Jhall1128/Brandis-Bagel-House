@@ -15,4 +15,5 @@ the OrderPanel contains all of the possible selections from the store. The user 
 The PricePanel contains a summary of the user's order on the right hand side of the Screen. The Summary includes:
 * A list of all items that the user ordered, along with their price.
 * The subtotal, tax (at 6% tax rate) and grand total of the order.
+
 This panel updates in real-time, and will change the moment that a change is made to the order.
